@@ -1,0 +1,678 @@
+info: Jul-20-2021 18:50:54: 	Server start whith 
+info: Jul-20-2021 18:50:54: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:50:54: 	Server start whith 
+info: Jul-20-2021 18:50:54: 	[Worker] Worker has started.
+info: Jul-20-2021 18:50:54: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 18:50:55: 	Error: Error: Cannot find module 'nodemailer'
+Require stack:
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/utils/sendEmail.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/controllers/userController.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/routes/userRoutes.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/worker.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/server.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/index.js
+info: Jul-20-2021 18:50:54: 	Server start whith 
+info: Jul-20-2021 18:50:54: 	[Worker] Worker has started.
+info: Jul-20-2021 18:50:54: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 18:50:55: 	Error: Error: Cannot find module 'nodemailer'
+Require stack:
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/utils/sendEmail.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/controllers/userController.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/routes/userRoutes.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/worker.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/server.js
+- /home/ruben/works/coderhouse-backend/Proyecto-Entrega 3-1/index.js
+info: Jul-20-2021 18:51:18: 	Server start whith 
+info: Jul-20-2021 18:51:18: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:51:18: 	Server start whith 
+info: Jul-20-2021 18:51:18: 	[Worker] Worker has started.
+error: Jul-20-2021 18:51:18: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:51:18: 	Server start whith 
+info: Jul-20-2021 18:51:18: 	[Worker] Worker has started.
+error: Jul-20-2021 18:51:18: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:51:45: 	Server start whith 
+info: Jul-20-2021 18:51:45: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:51:45: 	Server start whith 
+info: Jul-20-2021 18:51:45: 	[Worker] Worker has started.
+error: Jul-20-2021 18:51:45: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:51:45: 	Server start whith 
+info: Jul-20-2021 18:51:45: 	[Worker] Worker has started.
+error: Jul-20-2021 18:51:45: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:53:10: 	Server start whith 
+info: Jul-20-2021 18:53:10: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:53:10: 	Server start whith 
+info: Jul-20-2021 18:53:10: 	[Worker] Worker has started.
+error: Jul-20-2021 18:53:10: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:53:10: 	Server start whith 
+info: Jul-20-2021 18:53:10: 	[Worker] Worker has started.
+error: Jul-20-2021 18:53:10: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:53:39: 	Server start whith 
+info: Jul-20-2021 18:53:39: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:53:39: 	Server start whith 
+info: Jul-20-2021 18:53:39: 	[Worker] Worker has started.
+error: Jul-20-2021 18:53:39: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:53:39: 	Server start whith 
+info: Jul-20-2021 18:53:39: 	[Worker] Worker has started.
+error: Jul-20-2021 18:53:39: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:53:55: 	Server start whith 
+info: Jul-20-2021 18:53:55: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:53:56: 	Server start whith 
+info: Jul-20-2021 18:53:56: 	[Worker] Worker has started.
+error: Jul-20-2021 18:53:56: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:53:56: 	Server start whith 
+info: Jul-20-2021 18:53:56: 	[Worker] Worker has started.
+error: Jul-20-2021 18:53:56: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:54:19: 	Server start whith 
+info: Jul-20-2021 18:54:19: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:54:19: 	Server start whith 
+info: Jul-20-2021 18:54:19: 	[Worker] Worker has started.
+error: Jul-20-2021 18:54:19: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:54:19: 	Server start whith 
+info: Jul-20-2021 18:54:19: 	[Worker] Worker has started.
+error: Jul-20-2021 18:54:19: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:55:39: 	Server start whith 
+info: Jul-20-2021 18:55:39: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:55:39: 	Server start whith 
+info: Jul-20-2021 18:55:39: 	[Worker] Worker has started.
+info: Jul-20-2021 18:55:39: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 18:55:40: 	Error: ReferenceError: emailTo is not defined
+info: Jul-20-2021 18:55:39: 	Server start whith 
+info: Jul-20-2021 18:55:39: 	[Worker] Worker has started.
+info: Jul-20-2021 18:55:39: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 18:55:40: 	Error: ReferenceError: emailTo is not defined
+info: Jul-20-2021 18:55:47: 	Server start whith 
+info: Jul-20-2021 18:55:47: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:55:48: 	Server start whith 
+info: Jul-20-2021 18:55:48: 	[Worker] Worker has started.
+error: Jul-20-2021 18:55:48: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:55:48: 	Server start whith 
+info: Jul-20-2021 18:55:48: 	[Worker] Worker has started.
+error: Jul-20-2021 18:55:48: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:56:30: 	Server start whith 
+info: Jul-20-2021 18:56:30: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:56:30: 	Server start whith 
+info: Jul-20-2021 18:56:30: 	[Worker] Worker has started.
+error: Jul-20-2021 18:56:30: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:56:30: 	Server start whith 
+info: Jul-20-2021 18:56:30: 	[Worker] Worker has started.
+error: Jul-20-2021 18:56:30: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 18:56:52: 	Server start whith 
+info: Jul-20-2021 18:56:52: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 18:56:53: 	Server start whith 
+info: Jul-20-2021 18:56:53: 	[Worker] Worker has started.
+info: Jul-20-2021 18:56:53: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 18:56:53: 	Error: ReferenceError: emailTo is not defined
+info: Jul-20-2021 18:56:53: 	Server start whith 
+info: Jul-20-2021 18:56:53: 	[Worker] Worker has started.
+info: Jul-20-2021 18:56:53: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 18:56:53: 	Error: ReferenceError: emailTo is not defined
+info: Jul-20-2021 19:04:23: 	Server start whith 
+info: Jul-20-2021 19:04:23: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:04:24: 	Server start whith 
+info: Jul-20-2021 19:04:24: 	[Worker] Worker has started.
+error: Jul-20-2021 19:04:24: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:04:24: 	Server start whith 
+info: Jul-20-2021 19:04:24: 	[Worker] Worker has started.
+error: Jul-20-2021 19:04:24: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:04:43: 	Server start whith 
+info: Jul-20-2021 19:04:43: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:04:43: 	Server start whith 
+info: Jul-20-2021 19:04:43: 	[Worker] Worker has started.
+info: Jul-20-2021 19:04:43: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:04:43: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:04:43: 	Server start whith 
+info: Jul-20-2021 19:04:43: 	[Worker] Worker has started.
+info: Jul-20-2021 19:04:43: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:04:43: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:06:33: 	Server start whith 
+info: Jul-20-2021 19:06:33: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:06:33: 	Server start whith 
+info: Jul-20-2021 19:06:34: 	[Worker] Worker has started.
+error: Jul-20-2021 19:06:34: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:06:33: 	Server start whith 
+info: Jul-20-2021 19:06:34: 	[Worker] Worker has started.
+error: Jul-20-2021 19:06:34: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:06:52: 	Server start whith 
+info: Jul-20-2021 19:06:52: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:06:52: 	Server start whith 
+info: Jul-20-2021 19:06:52: 	[Worker] Worker has started.
+info: Jul-20-2021 19:06:52: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:06:53: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:06:52: 	Server start whith 
+info: Jul-20-2021 19:06:52: 	[Worker] Worker has started.
+info: Jul-20-2021 19:06:52: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:06:53: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:09:29: 	Server start whith 
+info: Jul-20-2021 19:09:29: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:09:29: 	Server start whith 
+info: Jul-20-2021 19:09:29: 	[Worker] Worker has started.
+error: Jul-20-2021 19:09:29: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:09:29: 	Server start whith 
+info: Jul-20-2021 19:09:29: 	[Worker] Worker has started.
+error: Jul-20-2021 19:09:29: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:09:46: 	Server start whith 
+info: Jul-20-2021 19:09:46: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:09:46: 	Server start whith 
+info: Jul-20-2021 19:09:46: 	[Worker] Worker has started.
+info: Jul-20-2021 19:09:46: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:09:47: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:09:46: 	Server start whith 
+info: Jul-20-2021 19:09:46: 	[Worker] Worker has started.
+info: Jul-20-2021 19:09:46: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:09:47: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:11:21: 	Server start whith 
+info: Jul-20-2021 19:11:21: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:11:21: 	Server start whith 
+info: Jul-20-2021 19:11:21: 	[Worker] Worker has started.
+info: Jul-20-2021 19:11:21: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:11:22: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:11:21: 	Server start whith 
+info: Jul-20-2021 19:11:21: 	[Worker] Worker has started.
+info: Jul-20-2021 19:11:21: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:11:22: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:12:02: 	Server start whith 
+info: Jul-20-2021 19:12:02: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:12:03: 	Server start whith 
+info: Jul-20-2021 19:12:03: 	[Worker] Worker has started.
+error: Jul-20-2021 19:12:03: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:12:03: 	Server start whith 
+info: Jul-20-2021 19:12:03: 	[Worker] Worker has started.
+error: Jul-20-2021 19:12:03: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:12:19: 	Server start whith 
+info: Jul-20-2021 19:12:19: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:12:19: 	Server start whith 
+info: Jul-20-2021 19:12:19: 	[Worker] Worker has started.
+info: Jul-20-2021 19:12:19: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:12:20: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:12:19: 	Server start whith 
+info: Jul-20-2021 19:12:19: 	[Worker] Worker has started.
+info: Jul-20-2021 19:12:19: 	Servidor http escuchando en el puerto 8080
+error: Jul-20-2021 19:12:20: 	Error: ReferenceError: mailOptions is not defined
+info: Jul-20-2021 19:14:03: 	Server start whith 
+info: Jul-20-2021 19:14:03: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:14:03: 	Server start whith 
+info: Jul-20-2021 19:14:03: 	[Worker] Worker has started.
+error: Jul-20-2021 19:14:03: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:14:03: 	Server start whith 
+info: Jul-20-2021 19:14:03: 	[Worker] Worker has started.
+error: Jul-20-2021 19:14:03: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:16:30: 	Server start whith 
+info: Jul-20-2021 19:16:30: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:16:30: 	Server start whith 
+info: Jul-20-2021 19:16:30: 	[Worker] Worker has started.
+error: Jul-20-2021 19:16:30: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:16:30: 	Server start whith 
+info: Jul-20-2021 19:16:30: 	[Worker] Worker has started.
+error: Jul-20-2021 19:16:30: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:17:20: 	Server start whith 
+info: Jul-20-2021 19:17:20: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:17:20: 	Server start whith 
+info: Jul-20-2021 19:17:20: 	[Worker] Worker has started.
+info: Jul-20-2021 19:17:20: 	Servidor http escuchando en el puerto 8080
+info: Jul-20-2021 19:17:20: 	Server start whith 
+info: Jul-20-2021 19:17:20: 	[Worker] Worker has started.
+info: Jul-20-2021 19:17:20: 	Servidor http escuchando en el puerto 8080
+info: Jul-20-2021 19:17:23: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-20-2021 19:17:23: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-20-2021 19:17:23: 	Server start whith 
+info: Jul-20-2021 19:17:23: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:17:23: 	Server start whith 
+info: Jul-20-2021 19:17:23: 	[Worker] Worker has started.
+error: Jul-20-2021 19:17:24: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:17:23: 	Server start whith 
+info: Jul-20-2021 19:17:24: 	[Worker] Worker has started.
+error: Jul-20-2021 19:17:24: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-20-2021 19:56:21: 	Server start whith 
+info: Jul-20-2021 19:56:21: 	[Cluster]  Master process is now running.
+info: Jul-20-2021 19:56:21: 	Server start whith 
+info: Jul-20-2021 19:56:21: 	[Worker] Worker has started.
+info: Jul-20-2021 19:56:21: 	Servidor http escuchando en el puerto 8080
+info: Jul-20-2021 19:56:21: 	Server start whith 
+info: Jul-20-2021 19:56:21: 	[Worker] Worker has started.
+info: Jul-20-2021 19:56:21: 	Servidor http escuchando en el puerto 8080
+info: Jul-20-2021 19:56:23: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-20-2021 19:56:23: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:18:16: 	Server start whith 
+info: Jul-21-2021 18:18:16: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:18:16: 	Server start whith 
+info: Jul-21-2021 18:18:16: 	[Worker] Worker has started.
+error: Jul-21-2021 18:18:16: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:18:16: 	Server start whith 
+info: Jul-21-2021 18:18:16: 	[Worker] Worker has started.
+error: Jul-21-2021 18:18:16: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:19:29: 	Server start whith 
+info: Jul-21-2021 18:19:29: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:19:29: 	Server start whith 
+info: Jul-21-2021 18:19:29: 	[Worker] Worker has started.
+info: Jul-21-2021 18:19:29: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:19:29: 	Server start whith 
+info: Jul-21-2021 18:19:29: 	[Worker] Worker has started.
+info: Jul-21-2021 18:19:29: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:19:32: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:19:32: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:47:21: 	Server start whith 
+info: Jul-21-2021 18:47:21: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:47:21: 	Server start whith 
+info: Jul-21-2021 18:47:21: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:47:21: 	Server start whith 
+info: Jul-21-2021 18:47:22: 	[Worker] Worker has started.
+error: Jul-21-2021 18:47:22: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:47:21: 	Server start whith 
+info: Jul-21-2021 18:47:22: 	[Worker] Worker has started.
+error: Jul-21-2021 18:47:22: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:47:21: 	Server start whith 
+info: Jul-21-2021 18:47:22: 	[Worker] Worker has started.
+info: Jul-21-2021 18:47:22: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:47:21: 	Server start whith 
+info: Jul-21-2021 18:47:22: 	[Worker] Worker has started.
+info: Jul-21-2021 18:47:22: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:47:24: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:47:24: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:48:10: 	Server start whith 
+info: Jul-21-2021 18:48:10: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:48:11: 	Server start whith 
+info: Jul-21-2021 18:48:11: 	[Worker] Worker has started.
+info: Jul-21-2021 18:48:11: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:48:11: 	Server start whith 
+info: Jul-21-2021 18:48:11: 	[Worker] Worker has started.
+info: Jul-21-2021 18:48:11: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:48:13: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:48:13: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:48:42: 	Server start whith 
+info: Jul-21-2021 18:48:42: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:48:42: 	Server start whith 
+info: Jul-21-2021 18:48:42: 	Server start whith 
+info: Jul-21-2021 18:48:42: 	[Worker] Worker has started.
+info: Jul-21-2021 18:48:42: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:48:42: 	[Worker] Worker has started.
+info: Jul-21-2021 18:48:42: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:48:45: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:48:45: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:48:49: 	Server start whith 
+info: Jul-21-2021 18:48:49: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:48:49: 	Server start whith 
+info: Jul-21-2021 18:48:49: 	[Worker] Worker has started.
+error: Jul-21-2021 18:48:49: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:48:49: 	Server start whith 
+info: Jul-21-2021 18:48:49: 	[Worker] Worker has started.
+error: Jul-21-2021 18:48:49: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:49:13: 	Server start whith 
+info: Jul-21-2021 18:49:13: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:49:13: 	Server start whith 
+info: Jul-21-2021 18:49:14: 	[Worker] Worker has started.
+error: Jul-21-2021 18:49:14: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:49:14: 	Server start whith 
+info: Jul-21-2021 18:49:14: 	[Worker] Worker has started.
+error: Jul-21-2021 18:49:14: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:49:22: 	Server start whith 
+info: Jul-21-2021 18:49:22: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:49:22: 	Server start whith 
+info: Jul-21-2021 18:49:22: 	[Worker] Worker has started.
+error: Jul-21-2021 18:49:23: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:49:22: 	Server start whith 
+info: Jul-21-2021 18:49:23: 	[Worker] Worker has started.
+error: Jul-21-2021 18:49:23: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:49:46: 	Server start whith 
+info: Jul-21-2021 18:49:46: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:49:47: 	Server start whith 
+info: Jul-21-2021 18:49:47: 	[Worker] Worker has started.
+info: Jul-21-2021 18:49:47: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:49:47: 	Server start whith 
+info: Jul-21-2021 18:49:47: 	[Worker] Worker has started.
+info: Jul-21-2021 18:49:47: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:49:50: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:49:50: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:54:12: 	Server start whith 
+info: Jul-21-2021 18:54:12: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:54:12: 	Server start whith 
+info: Jul-21-2021 18:54:12: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:54:12: 	Server start whith 
+info: Jul-21-2021 18:54:12: 	[Worker] Worker has started.
+error: Jul-21-2021 18:54:12: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:54:12: 	Server start whith 
+info: Jul-21-2021 18:54:12: 	[Worker] Worker has started.
+error: Jul-21-2021 18:54:12: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:54:12: 	Server start whith 
+info: Jul-21-2021 18:54:12: 	[Worker] Worker has started.
+info: Jul-21-2021 18:54:12: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:54:12: 	Server start whith 
+info: Jul-21-2021 18:54:12: 	[Worker] Worker has started.
+info: Jul-21-2021 18:54:12: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:54:15: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:54:15: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:54:30: 	Server start whith 
+info: Jul-21-2021 18:54:30: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:54:30: 	Server start whith 
+info: Jul-21-2021 18:54:30: 	[Worker] Worker has started.
+error: Jul-21-2021 18:54:30: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:54:30: 	Server start whith 
+info: Jul-21-2021 18:54:30: 	[Worker] Worker has started.
+error: Jul-21-2021 18:54:30: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:54:48: 	Server start whith 
+info: Jul-21-2021 18:54:48: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:54:48: 	Server start whith 
+info: Jul-21-2021 18:54:48: 	[Worker] Worker has started.
+info: Jul-21-2021 18:54:48: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:54:48: 	Server start whith 
+info: Jul-21-2021 18:54:48: 	[Worker] Worker has started.
+info: Jul-21-2021 18:54:48: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:54:51: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:54:52: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:56:45: 	Server start whith 
+info: Jul-21-2021 18:56:45: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:56:45: 	Server start whith 
+info: Jul-21-2021 18:56:45: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:56:46: 	Server start whith 
+info: Jul-21-2021 18:56:46: 	[Worker] Worker has started.
+error: Jul-21-2021 18:56:46: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:56:46: 	Server start whith 
+info: Jul-21-2021 18:56:46: 	[Worker] Worker has started.
+error: Jul-21-2021 18:56:46: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 18:56:46: 	Server start whith 
+info: Jul-21-2021 18:56:46: 	[Worker] Worker has started.
+info: Jul-21-2021 18:56:46: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:56:46: 	Server start whith 
+info: Jul-21-2021 18:56:46: 	[Worker] Worker has started.
+info: Jul-21-2021 18:56:46: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:56:48: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:56:48: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:57:07: 	Server start whith 
+info: Jul-21-2021 18:57:07: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 18:57:07: 	Server start whith 
+info: Jul-21-2021 18:57:07: 	[Worker] Worker has started.
+info: Jul-21-2021 18:57:07: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:57:07: 	Server start whith 
+info: Jul-21-2021 18:57:07: 	[Worker] Worker has started.
+info: Jul-21-2021 18:57:07: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 18:57:10: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 18:57:10: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:23:09: 	Server start whith 
+info: Jul-21-2021 19:23:09: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:23:09: 	Server start whith 
+info: Jul-21-2021 19:23:09: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:23:10: 	Server start whith 
+info: Jul-21-2021 19:23:10: 	[Worker] Worker has started.
+error: Jul-21-2021 19:23:10: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:23:10: 	Server start whith 
+info: Jul-21-2021 19:23:10: 	[Worker] Worker has started.
+error: Jul-21-2021 19:23:10: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:23:10: 	Server start whith 
+info: Jul-21-2021 19:23:10: 	[Worker] Worker has started.
+info: Jul-21-2021 19:23:10: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:23:10: 	Server start whith 
+info: Jul-21-2021 19:23:10: 	[Worker] Worker has started.
+info: Jul-21-2021 19:23:10: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:23:13: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:23:13: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:23:46: 	Server start whith 
+info: Jul-21-2021 19:23:46: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:23:46: 	Server start whith 
+info: Jul-21-2021 19:23:46: 	[Worker] Worker has started.
+info: Jul-21-2021 19:23:46: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:23:46: 	Server start whith 
+info: Jul-21-2021 19:23:46: 	[Worker] Worker has started.
+info: Jul-21-2021 19:23:46: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:23:49: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:23:49: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:25:15: 	Server start whith 
+info: Jul-21-2021 19:25:15: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:25:15: 	Server start whith 
+info: Jul-21-2021 19:25:15: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:25:15: 	Server start whith 
+info: Jul-21-2021 19:25:15: 	[Worker] Worker has started.
+error: Jul-21-2021 19:25:15: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:25:15: 	Server start whith 
+info: Jul-21-2021 19:25:15: 	[Worker] Worker has started.
+error: Jul-21-2021 19:25:15: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:25:15: 	Server start whith 
+info: Jul-21-2021 19:25:15: 	[Worker] Worker has started.
+info: Jul-21-2021 19:25:15: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:25:15: 	Server start whith 
+info: Jul-21-2021 19:25:15: 	[Worker] Worker has started.
+info: Jul-21-2021 19:25:15: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:25:18: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:25:18: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:28:31: 	Server start whith 
+info: Jul-21-2021 19:28:31: 	Server start whith 
+info: Jul-21-2021 19:28:31: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:28:31: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:28:32: 	Server start whith 
+info: Jul-21-2021 19:28:32: 	[Worker] Worker has started.
+error: Jul-21-2021 19:28:32: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:28:32: 	Server start whith 
+info: Jul-21-2021 19:28:32: 	[Worker] Worker has started.
+error: Jul-21-2021 19:28:32: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:28:32: 	Server start whith 
+info: Jul-21-2021 19:28:32: 	[Worker] Worker has started.
+info: Jul-21-2021 19:28:32: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:28:32: 	Server start whith 
+info: Jul-21-2021 19:28:32: 	[Worker] Worker has started.
+info: Jul-21-2021 19:28:32: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:28:35: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:28:35: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:35:38: 	Server start whith 
+info: Jul-21-2021 19:35:38: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:35:38: 	Server start whith 
+info: Jul-21-2021 19:35:38: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:35:39: 	Server start whith 
+info: Jul-21-2021 19:35:39: 	[Worker] Worker has started.
+error: Jul-21-2021 19:35:39: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:35:39: 	Server start whith 
+info: Jul-21-2021 19:35:39: 	[Worker] Worker has started.
+error: Jul-21-2021 19:35:39: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:35:39: 	Server start whith 
+info: Jul-21-2021 19:35:39: 	[Worker] Worker has started.
+info: Jul-21-2021 19:35:39: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:35:38: 	Server start whith 
+info: Jul-21-2021 19:35:39: 	[Worker] Worker has started.
+info: Jul-21-2021 19:35:39: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:35:42: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:35:42: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:35:57: 	Server start whith 
+info: Jul-21-2021 19:35:57: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:35:57: 	Server start whith 
+info: Jul-21-2021 19:35:57: 	[Worker] Worker has started.
+info: Jul-21-2021 19:35:57: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:35:57: 	Server start whith 
+info: Jul-21-2021 19:35:57: 	[Worker] Worker has started.
+info: Jul-21-2021 19:35:57: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:36:00: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:36:00: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:37:57: 	Server start whith 
+info: Jul-21-2021 19:37:57: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:37:57: 	Server start whith 
+info: Jul-21-2021 19:37:57: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:37:57: 	Server start whith 
+info: Jul-21-2021 19:37:57: 	[Worker] Worker has started.
+error: Jul-21-2021 19:37:57: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:37:57: 	Server start whith 
+info: Jul-21-2021 19:37:57: 	[Worker] Worker has started.
+error: Jul-21-2021 19:37:57: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:37:57: 	Server start whith 
+info: Jul-21-2021 19:37:57: 	[Worker] Worker has started.
+info: Jul-21-2021 19:37:57: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:37:57: 	Server start whith 
+info: Jul-21-2021 19:37:57: 	[Worker] Worker has started.
+info: Jul-21-2021 19:37:57: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:38:00: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:38:00: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:38:15: 	Server start whith 
+info: Jul-21-2021 19:38:15: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:38:15: 	Server start whith 
+info: Jul-21-2021 19:38:16: 	[Worker] Worker has started.
+info: Jul-21-2021 19:38:16: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:38:15: 	Server start whith 
+info: Jul-21-2021 19:38:16: 	[Worker] Worker has started.
+info: Jul-21-2021 19:38:16: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:38:18: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:38:18: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:48:03: 	Server start whith 
+info: Jul-21-2021 19:48:03: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:48:03: 	Server start whith 
+info: Jul-21-2021 19:48:03: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:48:03: 	Server start whith 
+info: Jul-21-2021 19:48:03: 	[Worker] Worker has started.
+error: Jul-21-2021 19:48:03: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:48:03: 	Server start whith 
+info: Jul-21-2021 19:48:03: 	[Worker] Worker has started.
+error: Jul-21-2021 19:48:03: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:48:03: 	Server start whith 
+info: Jul-21-2021 19:48:03: 	[Worker] Worker has started.
+info: Jul-21-2021 19:48:03: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:48:03: 	Server start whith 
+info: Jul-21-2021 19:48:03: 	[Worker] Worker has started.
+info: Jul-21-2021 19:48:03: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:48:06: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:48:07: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:48:26: 	Server start whith 
+info: Jul-21-2021 19:48:26: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:48:26: 	Server start whith 
+info: Jul-21-2021 19:48:26: 	[Worker] Worker has started.
+info: Jul-21-2021 19:48:26: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:48:26: 	Server start whith 
+info: Jul-21-2021 19:48:26: 	[Worker] Worker has started.
+info: Jul-21-2021 19:48:26: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:48:29: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:48:29: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:48:58: 	Server start whith 
+info: Jul-21-2021 19:48:58: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:48:58: 	Server start whith 
+info: Jul-21-2021 19:48:58: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:48:58: 	Server start whith 
+info: Jul-21-2021 19:48:58: 	[Worker] Worker has started.
+error: Jul-21-2021 19:48:58: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:48:58: 	Server start whith 
+info: Jul-21-2021 19:48:58: 	[Worker] Worker has started.
+error: Jul-21-2021 19:48:58: 	Error en servidor Error: bind EADDRINUSE null:8080
+info: Jul-21-2021 19:48:58: 	Server start whith 
+info: Jul-21-2021 19:48:58: 	[Worker] Worker has started.
+info: Jul-21-2021 19:48:58: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:48:58: 	Server start whith 
+info: Jul-21-2021 19:48:58: 	[Worker] Worker has started.
+info: Jul-21-2021 19:48:58: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:49:01: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:49:01: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:49:17: 	Server start whith 
+info: Jul-21-2021 19:49:17: 	[Cluster]  Master process is now running.
+info: Jul-21-2021 19:49:17: 	Server start whith 
+info: Jul-21-2021 19:49:17: 	[Worker] Worker has started.
+info: Jul-21-2021 19:49:17: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:49:17: 	Server start whith 
+info: Jul-21-2021 19:49:17: 	[Worker] Worker has started.
+info: Jul-21-2021 19:49:17: 	Servidor http escuchando en el puerto 8080
+info: Jul-21-2021 19:49:20: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 19:49:20: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:03:07: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:03:07: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:03:07: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:03:10: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 21:03:37: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:03:37: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:03:40: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 21:04:01: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:04:01: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:04:03: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:04:38: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:04:38: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:04:41: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 21:04:55: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:04:57: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:07:39: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:19:20: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:19:55: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:24:19: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:26:08: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:35:40: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:35:46: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:36:36: 	Server in port 8080 en mode FORK
+error: Jul-21-2021 21:36:36: 	Error: SyntaxError: Unexpected token ':'
+error: Jul-21-2021 21:36:46: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:37:06: 	Server in port 8080 en mode FORK
+error: Jul-21-2021 21:37:06: 	Error: SyntaxError: Unexpected token ':'
+error: Jul-21-2021 21:38:19: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:38:19: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:38:30: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 21:39:01: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:39:03: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:41:32: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+error: Jul-21-2021 21:41:38: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:41:59: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:42:01: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:49:12: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:49:12: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:49:14: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:49:45: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:49:45: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:49:47: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:52:00: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:52:00: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:52:02: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 21:52:31: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:52:33: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 21:53:50: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 21:53:50: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:53:52: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-21-2021 21:54:14: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 21:54:16: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 22:10:46: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-21-2021 22:10:46: 	Server in port 8080 en mode FORK
+info: Jul-21-2021 22:10:48: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+error: Jul-21-2021 22:28:49: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+info: Jul-22-2021 19:50:17: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 19:51:09: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 20:00:24: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 20:00:27: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 20:01:21: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 20:01:24: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:06:46: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:06:49: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:08:07: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:08:10: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:10:42: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:10:45: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:23:14: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:23:17: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:26:16: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:26:19: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:49:05: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:49:07: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:52:54: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:52:56: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 22:53:27: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 22:53:30: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 23:01:14: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 23:01:17: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 23:19:52: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 23:19:57: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 23:22:04: 	Server in port 8080 en mode FORK
+error: Jul-22-2021 23:22:05: 	Error: ReferenceError: data is not defined
+info: Jul-22-2021 23:23:42: 	Server in port 8080 en mode FORK
+error: Jul-22-2021 23:23:43: 	Error: SyntaxError: Unexpected token '{'
+info: Jul-22-2021 23:24:18: 	Server in port 8080 en mode FORK
+error: Jul-22-2021 23:24:18: 	Error: SyntaxError: Unexpected token '{'
+info: Jul-22-2021 23:24:43: 	Server in port 8080 en mode FORK
+error: Jul-22-2021 23:24:43: 	Error: SyntaxError: Missing initializer in const declaration
+info: Jul-22-2021 23:25:13: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 23:25:15: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-22-2021 23:27:43: 	Server in port 8080 en mode FORK
+info: Jul-22-2021 23:27:46: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-23-2021 19:51:41: 	Server in port 8080 en mode FORK
+info: Jul-23-2021 19:51:43: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 18:23:14: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 18:23:16: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 18:23:56: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 18:23:59: 	[4m[36mMongoDB Connected: cluster0-shard-00-00.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 18:27:46: 	Server in port 8080 en mode FORK
+error: Jul-24-2021 18:28:18: 	[1m[4m[31mError: connection timed out[39m[24m[22m
+info: Jul-24-2021 18:30:45: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 18:30:48: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 21:26:08: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 21:26:10: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 21:29:35: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 21:29:38: 	[4m[36mMongoDB Connected: cluster0-shard-00-02.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 21:30:30: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 21:30:32: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
+info: Jul-24-2021 22:27:37: 	Server in port 8080 en mode FORK
+error: Jul-24-2021 22:28:25: 	[1m[4m[31mError: connection timed out[39m[24m[22m
+info: Jul-24-2021 22:41:15: 	Server in port 8080 en mode FORK
+info: Jul-24-2021 22:41:33: 	[4m[36mMongoDB Connected: cluster0-shard-00-01.iazms.mongodb.net[39m[24m
